@@ -36,13 +36,11 @@ The goal of this project was to understand how static websites can be hosted in 
 
 ## Screenshots
 
-Add your deployment screenshots to the `screenshots/` directory and update the image paths below.
-
 ![S3 Bucket Overview](screenshots/01-s3-bucket.png)
 
 ![Static Website Hosting Configuration](screenshots/02-static-website-hosting.png)
 
-![Portfolio Live in Browser](screenshots/03-bucket-policy.png)
+![Bucket Policy](screenshots/03-bucket-policy.png)
 
 ## Key Learnings
 
